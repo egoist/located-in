@@ -17,8 +17,8 @@ const locatedIn = require('located-in')
 
 // find users in china or hongkong
 locatedIn(['china', 'hongkong'])
-  .then(users => {
-    console.log(users)
+  .then(data => {
+    console.log(data)
     // {
     //   total_count: 3,                                                                      
     //   incomplete_results: false,                                                           
