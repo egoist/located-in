@@ -1,6 +1,6 @@
 {
   "name": "located-in",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Get users by a speified location.",
   "license": "MIT",
   "repository": "egoist/located-in",
@@ -34,7 +34,10 @@
     "space": 2,
     "rules": {
       "camelcase": 0,
-      "curly": ["error", "multi"]
+      "curly": [
+        "error",
+        "multi"
+      ]
     }
   },
   "dependencies": {
