@@ -2,7 +2,7 @@
 
 [![NPM version](https://img.shields.io/npm/v/located-in.svg?style=flat-square)](https://npmjs.com/package/located-in) [![NPM downloads](https://img.shields.io/npm/dm/located-in.svg?style=flat-square)](https://npmjs.com/package/located-in) [![Build Status](https://img.shields.io/circleci/project/egoist/located-in/master.svg?style=flat-square)](https://circleci.com/gh/egoist/located-in)
 
-> Get users by a speified location.
+> Get users by a specified location.
 
 ## Install
 
