@@ -60,6 +60,13 @@ Default: `''`
 
 The search keyword.
 
+##### sort
+
+Type: `string`<br>
+Default: `followers`
+
+How to sort the results.
+
 ## Contributing
 
 1. Fork it!
